@@ -1,0 +1,18 @@
+{
+  "name": "zhangqian-step-5",
+  "version": "1.0.0",
+  "description": "step2-zhangqian",
+  "main": "index.js",
+  "bin": {
+    "zhangqian-step-5": "test.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.14.1"
+  }
+}
